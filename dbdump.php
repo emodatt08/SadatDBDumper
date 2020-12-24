@@ -9,7 +9,7 @@ $sql->setDBHost('127.0.0.1');
 $sql->setDBUsername('root');
 
 //set password
-$sql->setDBPassword('Foolishguy08');
+$sql->setDBPassword('temasek209!');
 
 //set sql file name
 $sql->setSQLFileName('peregrin');
